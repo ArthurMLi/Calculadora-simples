@@ -1,0 +1,14 @@
+H:\POO1\3 Etapa\CalculadorMendes\bin\Debug\net8.0\CalculadorMendes.exe
+H:\POO1\3 Etapa\CalculadorMendes\bin\Debug\net8.0\CalculadorMendes.deps.json
+H:\POO1\3 Etapa\CalculadorMendes\bin\Debug\net8.0\CalculadorMendes.runtimeconfig.json
+H:\POO1\3 Etapa\CalculadorMendes\bin\Debug\net8.0\CalculadorMendes.dll
+H:\POO1\3 Etapa\CalculadorMendes\bin\Debug\net8.0\CalculadorMendes.pdb
+H:\POO1\3 Etapa\CalculadorMendes\obj\Debug\net8.0\CalculadorMendes.GeneratedMSBuildEditorConfig.editorconfig
+H:\POO1\3 Etapa\CalculadorMendes\obj\Debug\net8.0\CalculadorMendes.AssemblyInfoInputs.cache
+H:\POO1\3 Etapa\CalculadorMendes\obj\Debug\net8.0\CalculadorMendes.AssemblyInfo.cs
+H:\POO1\3 Etapa\CalculadorMendes\obj\Debug\net8.0\CalculadorMendes.csproj.CoreCompileInputs.cache
+H:\POO1\3 Etapa\CalculadorMendes\obj\Debug\net8.0\CalculadorMendes.dll
+H:\POO1\3 Etapa\CalculadorMendes\obj\Debug\net8.0\refint\CalculadorMendes.dll
+H:\POO1\3 Etapa\CalculadorMendes\obj\Debug\net8.0\CalculadorMendes.pdb
+H:\POO1\3 Etapa\CalculadorMendes\obj\Debug\net8.0\CalculadorMendes.genruntimeconfig.cache
+H:\POO1\3 Etapa\CalculadorMendes\obj\Debug\net8.0\ref\CalculadorMendes.dll
